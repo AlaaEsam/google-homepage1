@@ -1,0 +1,61 @@
+
+.image{
+	align-items: center;
+	width:600px;
+	display: block;
+	margin: 10px auto;
+}
+
+#exit{color:gray;
+	float:  left; 
+align-content: left;
+padding: 2px 10px;
+margin:5px 0px 5px 30px ;
+border-radius: 2px;
+background: white;
+}
+
+#login{color:blue;
+	float: right;
+text-align: right; 
+align-content: left;
+padding: 2px 10px;
+margin:5px 0px 5px 30px ;
+border: 1px solid gray;
+border-radius: 2px;
+background: blue;
+color: white;
+}
+.search-box input{
+	width: 400px;
+	padding:10px 50px 10px 10px;
+	height: auto;
+	display: block;
+	margin: 10px auto;
+	font-size: 20px;
+}
+#main{
+	padding-top:400px;
+	text-align: center; 
+}
+
+form {
+	text-align: center;
+	margin: 0;
+	padding: 0 auto;
+}
+footer{
+	display: block;
+	background-color: lightgray;
+border: 1px solid black;
+	height: 100;
+	width: 100%;
+margin: 10px auto;
+padding: 2px 10px;
+}
+footer a{
+	align-items: center;
+	text-align: center;
+     color:gray;
+   
+     }
